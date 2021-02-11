@@ -1,3 +1,3 @@
 # README
 ##NewDevsMLOps
-Machine Learning  App capable off  automations and problem solving 
+Machine Learning  App capable of  automations and problem solving 
